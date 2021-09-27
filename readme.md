@@ -1,9 +1,3 @@
-public class Main {
-    public static void main(String[] args){
-        System.out.println("Hello world!");
-    }
-}
-
 // Terminal == 윈도우에서 쓰는 CMD
 
 // git 명령어 인자
