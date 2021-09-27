@@ -27,9 +27,19 @@ public class Main {
 // 버전 만든다잉!
 // IntelliJ Git -> commit -> 버전관리할 파일들을 추가! -> Commit Message 내용을 입력 후 -> Commit 누르기
 
+// 평행우주가 얼마나 있는지 확인해보기 git branch
+// IntelliJ Git -> Branches
+
+// 평행 우주 만들기 git branch 새로운 브랜치명
+// IntelliJ Git -> Branches -> Create New Branch (해당 브랜치를 만들고 난 후 바로 이동하기)
+
+// 나 돌아갈래 ! git checkout 브랜치명
+// IntelliJ Git -> Branches -> 해당 브랜치 -> Checkout
+
+// 평행우주 지우기 git branch -d 브랜치명
+//  IntelliJ Git -> Branches -> 해당 브랜치 -> Delete
+
 // 온라인에 올릴 때는 1.원격지를 지정한 후 -> 2. Push를 사용하여서 올립니다.
-
-
 // 1. 원격지를 지정할 때는 git remote add 단축명 주소
 // remote 원격지를 의미!
 // add 원격지를 추가할꺼에요!
@@ -68,5 +78,3 @@ public class Main {
 
 // 남의 소스코드를 내 원격지로 끌고 명령어! git fork
 // 오픈소스 기여할 때 주로 사용한다고 생각
-
-// 버전을 만들었는데 잘못 만들었을 때 쓰는 명령어! -> git rollback
